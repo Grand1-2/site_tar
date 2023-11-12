@@ -1,0 +1,60 @@
+
+body{
+	font-family:Corbel;
+	margin: 25px 55px 25px 55px;
+	text-align: justify;
+	color:#333;
+}
+header{
+	margin-left : 15pt;
+	margin-right : 15pt;
+	}
+h1{
+	text-align: center;
+	}
+h2{
+	align-items: center;
+	
+	}
+li{
+	list-style-type: circle;
+	font-size:18px;
+	}
+h1 + p{
+	font-size:150%;
+	font-style: normal;
+	}
+p{
+	font-size:18px;
+	}
+a{
+	color: orange;
+	}
+
+img{
+	max-width: 100%; 
+	height: auto; 
+	margin: auto;
+	display: block;
+	}
+
+kir{
+	font-size: 18px;
+	color:gray;
+	font-style: italic;
+	}
+
+.textcols{
+	overflow: hidden;
+}
+	
+.textcols-left{
+	float: left;
+	width: 48%;
+}
+.textcols-right{
+	margin-left: 52%;
+}
+
+
+	
